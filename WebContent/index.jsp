@@ -9,6 +9,7 @@
 <body>
 	<header>
 		<div>회원가입</div>
+		<div>관리자</div>
 	</header>
 	<article>
 	본문입니다
